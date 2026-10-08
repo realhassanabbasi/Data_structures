@@ -1,1 +1,82 @@
-IyBEYXRhIFN0cnVjdHVyZXMgaW4gQysrCgpBIGNvbGxlY3Rpb24gb2YgY2xhc3NpYyBkYXRhIHN0cnVjdHVyZXMgaW1wbGVtZW50ZWQgZnJvbSBzY3JhdGNoIGluIEMrKywgd3JpdHRlbgp3aGlsZSBzdHVkeWluZyAzcmQtc2VtZXN0ZXIgRGF0YSBTdHJ1Y3R1cmVzIChCUyBBcnRpZmljaWFsIEludGVsbGlnZW5jZSkgYXQKKipBaXIgVW5pdmVyc2l0eSBJc2xhbWFiYWQqKiBieSBIYXNzYW4gQWJiYXNpLgoKRXZlcnkgaW1wbGVtZW50YXRpb24gaXMgd3JpdHRlbiB3aXRob3V0IFNUTCBjb250YWluZXJzLCBzbyB0aGUgaW50ZXJuYWxzIOKAlApub2RlcywgcG9pbnRlcnMsIG1lbW9yeSBtYW5hZ2VtZW50IOKAlCBhcmUgYWxsIHZpc2libGUgYW5kIGVhc3kgdG8gc3R1ZHkuCgojIyBXaGF0J3MgaW5zaWRlCgp8IEZpbGUgfCBEYXRhIHN0cnVjdHVyZSB8IFdoYXQgaXQgZG9lcyB8CnwtLS18LS0tfC0tLXwKfCBgU2luZ2x5TGlzdC5jcHBgIHwgU2luZ2x5IExpbmtlZCBMaXN0IHwgSW50ZWdlci1iYXNlZCBsaW5rZWQgbGlzdCB3aXRoIHB1c2gvcG9wIGF0IGZyb250IGFuZCBlbmQsIGVyYXNlIGJ5IHZhbHVlLCBzaXplIGFuZCBjb3VudCBoZWxwZXJzLCBhbmQgYSBmdWxsIDExLWNhc2UgdGVzdCBoYXJuZXNzIGluIGBtYWluKClgIGNvdmVyaW5nIGVtcHR5LWxpc3QgZXJyb3JzIGFuZCBoZWFkL3RhaWwvbWlkZGxlIGRlbGV0aW9uLiB8CnwgYENpcmN1bGFyTGlzdC5jcHBgIHwgQ2lyY3VsYXIgTGlua2VkIExpc3QgfCBUZW1wbGF0ZS1iYXNlZCBjaXJjdWxhciBsaXN0IGtlcHQgd2l0aCBhIHRhaWwgcG9pbnRlcjsgc3VwcG9ydHMgcHVzaC9wb3AgYXQgZnJvbnQgYW5kIGVuZCwgZWxlbWVudCBlcmFzZSwgZGlzcGxheSwgYW5kIGF1dG9tYXRpYyBjbGVhbnVwIGluIHRoZSBkZXN0cnVjdG9yLiB8CnwgYGRvdWJseUxpc3QuY3BwYCB8IERvdWJseSBMaW5rZWQgTGlzdCB8IFRlbXBsYXRlLWJhc2VkIGxpc3Qgd2hvc2Ugbm9kZXMgY2FycnkgYm90aCBgbmV4dGAgYW5kIGBwcmV2aW91c2AgcG9pbnRlcnM7IHB1c2gvcG9wIGF0IGZyb250IGFuZCBlbmQgcGx1cyBlcmFzZS1ieS12YWx1ZSB3aXRoIHR3by13YXkgdHJhdmVyc2FsLiB8CnwgYFN0YWNrLmNwcGAgfCBTdGFjayAodHdvIHZlcnNpb25zKSB8IGBTdGFja0xpc3RgIOKAlCBhIHN0YWNrIGJ1aWx0IG9uIGEgdGVtcGxhdGUgbGlua2VkIGxpc3Qg4oCUIGFuZCBgU3RhY2tBcnJheWAg4oCUIGEgc3RhY2sgb24gYSBmaXhlZC1jYXBhY2l0eSBkeW5hbWljIGFycmF5OyBib3RoIHByb3ZpZGUgcHVzaCwgcG9wLCB0b3AsIGFuZCBlbXB0eSBjaGVja3Mgd2l0aCB1bmRlcmZsb3cgcHJvdGVjdGlvbi4gfAp8IGBxdWV1ZXMuY3BwYCB8IFF1ZXVlICh0d28gdmVyc2lvbnMpIHwgYFF1ZXVlYCDigJQgYSBsaW5rZWQtbGlzdCBGSUZPIHF1ZXVlIOKAlCBhbmQgYFF1ZXVlQXJyYXlgIOKAlCBhIGNpcmN1bGFyLWJ1ZmZlciBxdWV1ZSB1c2luZyB3cmFwLWFyb3VuZCBpbmRpY2VzIHNvIGVucXVldWUvZGVxdWV1ZSBzdGF5IE8oMSk7IGluY2x1ZGVzIGEgdHJhdmVyc2UgZGlzcGxheS4gfAp8IGBBYnN0cmFjdFRyZWUuY3BwYCB8IEdlbmVyYWwgVHJlZSB8IGBTaW1wbGVUcmVlYCDigJQgYSB0ZW1wbGF0ZSB0cmVlIHdoZXJlIG5vZGVzIGtlZXAgYSBsaXN0IG9mIGNoaWxkcmVuOyBzdXBwb3J0cyBhdHRhY2gvZGV0YWNoIG9mIHN1YnRyZWVzLCByb290IGFuZCBsZWFmIGNoZWNrcywgZGVncmVlLCBzaXplLCBoZWlnaHQsIGFuZCBjaGlsZCBhY2Nlc3MsIHdpdGggYSBkZW1vIGBtYWluKClgIHRoYXQgYnVpbGRzIGFuZCBxdWVyaWVzIGEgc21hbGwgdHJlZS4gfAoKIyMgUmVxdWlyZW1lbnRzCgotIEEgQysrIGNvbXBpbGVyIHdpdGggQysrMTEgc3VwcG9ydCAoZysrIDcgb3IgbmV3ZXIpLgotIE5vIGV4dGVybmFsIGxpYnJhcmllcyDigJQgb25seSB0aGUgQysrIHN0YW5kYXJkIGxpYnJhcnkgaXMgdXNlZC4KCk9uIFdpbmRvd3MsIGluc3RhbGwgW01pbkdXLXc2NF0oaHR0cHM6Ly93d3cubWluZ3ctdzY0Lm9yZy8pIGFuZCB1c2UgYGcrK2AgZnJvbSB0aGUgdGVybWluYWwuCgojIyBDb21waWxlICYgcnVuCgpFYWNoIGZpbGUgaXMgc2VsZi1jb250YWluZWQgYW5kIGNvbXBpbGVzIG9uIGl0cyBvd246CgpgYGBiYXNoCmcrKyBTaW5nbHlMaXN0LmNwcCAtbyBzaW5nbHlsaXN0Ci4vc2luZ2x5bGlzdApgYGAKCmBgYGJhc2gKZysrIEFic3RyYWN0VHJlZS5jcHAgLW8gdHJlZQouL3RyZWUKYGBgCgpgYGBiYXNoCmcrKyBTdGFjay5jcHAgLW8gc3RhY2sKLi9zdGFjawpgYGAKCmBgYGJhc2gKZysrIHF1ZXVlcy5jcHAgLW8gcXVldWUKLi9xdWV1ZQpgYGAKCmBgYGJhc2gKZysrIENpcmN1bGFyTGlzdC5jcHAgLW8gY2lyY3VsYXJsaXN0Ci4vY2lyY3VsYXJsaXN0CmBgYAoKYGBgYmFzaApnKysgZG91Ymx5TGlzdC5jcHAgLW8gZG91Ymx5bGlzdAouL2RvdWJseWxpc3QKYGBgCgpPbiBXaW5kb3dzIChQb3dlclNoZWxsIC8gY21kKSwgcnVuIHRoZSBwcm9kdWNlZCBgLmV4ZWAgaW5zdGVhZCBvZiBgLi9uYW1lYDoKCmBgYGJhc2gKZysrIFN0YWNrLmNwcCAtbyBzdGFjay5leGUKc3RhY2suZXhlCmBgYAoKIyMgV2hhdCBJIGxlYXJuZWQKCi0gSG93IG5vZGVzIGFuZCBwb2ludGVycyBhY3R1YWxseSB3b3JrIOKAlCBhbGxvY2F0aW5nLCBsaW5raW5nLCBhbmQgZGVsZXRpbmcgbWVtb3J5IGJ5IGhhbmQuCi0gVGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBgTygxKWAgb3BlcmF0aW9ucyAocHVzaCBhdCBmcm9udCkgYW5kIGBPKG4pYCBvbmVzIChwdXNoIGF0IGVuZCB3aXRob3V0IGEgdGFpbCBwb2ludGVyKS4KLSBXaHkgYSB0YWlsIHBvaW50ZXIgbWFrZXMgY2lyY3VsYXIgbGlzdHMgY2xlYW4sIGFuZCBob3cgYSBjaXJjdWxhciBhcnJheSBidWZmZXIga2VlcHMgYSBxdWV1ZSBmYXN0IHdpdGhvdXQgcmVsaW5raW5nIG5vZGVzLgotIEV4Y2VwdGlvbiBzYWZldHkgYmFzaWNzOiB0aHJvd2luZyBvbiB1bmRlcmZsb3cgaW5zdGVhZCBvZiBzaWxlbnRseSByZXR1cm5pbmcgZ2FyYmFnZS4KLSBUaGF0IHRoZSBzYW1lIEFEVCAoc3RhY2ssIHF1ZXVlKSBjYW4gc2l0IG9uIHR3byB2ZXJ5IGRpZmZlcmVudCBiYWNraW5ncyDigJQgYSBsaW5rZWQgbGlzdCBvciBhbiBhcnJheSDigJQgYW5kIHRoZSB0cmFkZS1vZmZzIG9mIGVhY2guCg==
+# Data Structures in C++
+
+A collection of classic data structures implemented from scratch in C++, written
+while studying 3rd-semester Data Structures (BS Artificial Intelligence) at
+**Air University Islamabad** by Hassan Abbasi.
+
+Every implementation is written without STL containers, so the internals —
+nodes, pointers, memory management — are all visible and easy to study.
+
+## What's inside
+
+| File | Data structure | What it does |
+|---|---|---|
+| `SinglyList.cpp` | Singly Linked List | Integer-based linked list with push/pop at front and end, erase by value, size and count helpers, and a full 11-case test harness in `main()` covering empty-list errors and head/tail/middle deletion. |
+| `CircularList.cpp` | Circular Linked List | Template-based circular list kept with a tail pointer; supports push/pop at front and end, element erase, display, and automatic cleanup in the destructor. |
+| `doublyList.cpp` | Doubly Linked List | Template-based list whose nodes carry both `next` and `previous` pointers; push/pop at front and end plus erase-by-value with two-way traversal. |
+| `Stack.cpp` | Stack (two versions) | `StackList` — a stack built on a template linked list — and `StackArray` — a stack on a fixed-capacity dynamic array; both provide push, pop, top, and empty checks with underflow protection. |
+| `queues.cpp` | Queue (two versions) | `Queue` — a linked-list FIFO queue — and `QueueArray` — a circular-buffer queue using wrap-around indices so enqueue/dequeue stay O(1); includes a traverse display. |
+| `AbstractTree.cpp` | General Tree | `SimpleTree` — a template tree where nodes keep a list of children; supports attach/detach of subtrees, root and leaf checks, degree, size, height, and child access, with a demo `main()` that builds and queries a small tree. |
+| `HashMap.cpp` | Hash Map | Template hash table with separate chaining (linked lists per bucket); auto-rehashes when the load factor passes 0.75; insert/update, get, contains, and remove; the demo `main()` shows collisions, rehashing in action, and a real word-frequency counter. |
+
+## Requirements
+
+- A C++ compiler with C++11 support (g++ 7 or newer).
+- No external libraries — only the C++ standard library is used.
+
+On Windows, install [MinGW-w64](https://www.mingw-w64.org/) and use `g++` from the terminal.
+
+## Compile & run
+
+Each file is self-contained and compiles on its own:
+
+```bash
+g++ SinglyList.cpp -o singlylist
+./singlylist
+```
+
+```bash
+g++ AbstractTree.cpp -o tree
+./tree
+```
+
+```bash
+g++ Stack.cpp -o stack
+./stack
+```
+
+```bash
+g++ queues.cpp -o queue
+./queue
+```
+
+```bash
+g++ CircularList.cpp -o circularlist
+./circularlist
+```
+
+```bash
+g++ doublyList.cpp -o doublylist
+./doublylist
+```
+
+```bash
+g++ HashMap.cpp -o hashmap
+./hashmap
+```
+
+On Windows (PowerShell / cmd), run the produced `.exe` instead of `./name`:
+
+```bash
+g++ Stack.cpp -o stack.exe
+stack.exe
+```
+
+## What I learned
+
+- How nodes and pointers actually work — allocating, linking, and deleting memory by hand.
+- The difference between `O(1)` operations (push at front) and `O(n)` ones (push at end without a tail pointer).
+- Why a tail pointer makes circular lists clean, and how a circular array buffer keeps a queue fast without relinking nodes.
+- Exception safety basics: throwing on underflow instead of silently returning garbage.
+- That the same ADT (stack, queue) can sit on two very different backings — a linked list or an array — and the trade-offs of each.
+- How hashing buys near-O(1) lookups, and why a 0.75 load factor with rehashing keeps the table fast even when keys collide.
