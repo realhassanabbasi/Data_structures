@@ -238,7 +238,7 @@ public:
     ~QueueArray(){
         delete []array1;
     }
-    bool emptyQueue(){
+    bool emptyQueue() const{
         return queueSize==0;
     }
     Q frontE() const {
