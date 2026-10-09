@@ -80,3 +80,18 @@ stack.exe
 - Exception safety basics: throwing on underflow instead of silently returning garbage.
 - That the same ADT (stack, queue) can sit on two very different backings — a linked list or an array — and the trade-offs of each.
 - How hashing buys near-O(1) lookups, and why a 0.75 load factor with rehashing keeps the table fast even when keys collide.
+
+## Testing
+
+Every structure in this repo is covered by one assertion-based test driver —
+137 checks across normal operations, edge cases (empty pops, missing erases,
+rehash boundaries), and structural integrity (backward links, ring order).
+
+```bash
+g++ -std=c++11 -Wall -Wextra tests/test_all.cpp -o tests/test_all
+./tests/test_all
+```
+
+A green run ends with `==== RESULT: 137 passed, 0 failed ====` and exits with
+code `0` (non-zero on failure, so it works in CI). See
+[`tests/README.md`](tests/README.md) for details.
